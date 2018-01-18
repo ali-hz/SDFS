@@ -1,0 +1,11 @@
+<config>
+	<topo-name>Fourtire_4</topo-name>
+	<routing>L3</routing>
+	<path-aggregariton></path-aggregariton>
+	<use-announcement-bit></use-announcement-bit>
+	<use-fast-failover></use-fast-failover>
+	<!-- TODO: automatically discover routes according to routing behavior.
+	For testing purposes, routes must be explicitly set in the topology file.
+	-->
+	<discover-routes></discover-routes>
+</config>
